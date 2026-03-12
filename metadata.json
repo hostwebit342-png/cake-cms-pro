@@ -1,0 +1,7 @@
+{
+  "name": "Cake CMS Pro",
+  "description": "Enterprise-grade Cake Order Management System connecting SP and BMS departments with real-time audio-visual notifications and robust Excel reporting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
